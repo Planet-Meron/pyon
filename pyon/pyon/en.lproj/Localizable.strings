@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  pyon
+
+  Created by 石橋 弦樹 on 11/11/13.
+  Copyright (c) 2011年 横浜国立大学. All rights reserved.
+*/
+"top_text" = "Your Best Score";
+"times" = "times";
+"record" = "Your record";
